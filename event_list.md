@@ -7,7 +7,7 @@
 -->
 | No. | Event Name    | Event Place | Date       | URL                        | Offline or Online | Person to Contact | Added By | Added At    | Edited By | Edited At    |
 |-----|---------------|-------------|------------|----------------------------|-------------------|-------------------|----------|-------------|-----------|--------------|
-| 1   |  ||  | | |  |  | | |  |
+| 1   | NASA Space App Challenge: Worldwide Hackathon       | WorldWide     | July 13, 2024 | [Click Here](https://www.spaceappschallenge.org/)| | [Abhishek](https://github.com/Adi-Abhishek) |April 08, 2024  | | |  |
 
 
 
