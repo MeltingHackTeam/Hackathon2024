@@ -7,7 +7,7 @@
 -->
 | No. | Event Name    | Event Place | Date       | URL                        | Offline or Online | Person to Contact | Added By | Added At    | Edited By | Edited At    |
 |-----|---------------|-------------|------------|----------------------------|-------------------|-------------------|----------|-------------|-----------|--------------|
-| 1   | NASA Space App Challenge: Worldwide Hackathon       | WorldWide     | July 13, 2024 | [Click Here](https://www.spaceappschallenge.org/)| | [Abhishek](https://github.com/Adi-Abhishek) |April 08, 2024  | | |  |
+| 1   | NASA Space App Challenge: Worldwide Hackathon       | WorldWide     | July 13, 2024 | [Click Here](https://www.spaceappschallenge.org/)| | | [Abhishek](https://github.com/Adi-Abhishek) |April 08, 2024  | | |  |
 | 2   | Yanbaru Hackathon | Tokyo | February 19th - March 2nd | https://fan-mily.com/Yanbaru_Hackathon | Offline | Fan-mily Inc. | [sae nuruki](https://www.linkedin.com/in/saenuruki/) | April 14th, 2024 |  |  |
 | 3 | Hack'z Hackathon ブラキオカップカップ | Fukuoka | March 18th - 20th | https://cup.hackz.team/ | Offline | Hack’z Inc | [sae nuruki](https://www.linkedin.com/in/saenuruki/) | April 14th, 2024 |  |  |
 | 4 | Tokyo AI Sai | Tokyo | March 24th | https://www.aisai.tokyo/ | Offline | 東京AI祭実行委員会 | [sae nuruki](https://www.linkedin.com/in/saenuruki/) | April 14th, 2024 |  |  |
